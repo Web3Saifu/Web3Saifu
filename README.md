@@ -1,6 +1,6 @@
 # Saifu
 
-**Smart Contract Security | Solidity | Foundry | DeFi**
+**Smart Contract Security | Solidity | Foundry | DeFi| AI Agents**
 
 Learning smart contract security through hands-on work with protocols, vulnerabilities, and EVM systems.
 
