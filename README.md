@@ -1,17 +1,41 @@
-# Saiful Islam
+# Saifu
 
 **Smart Contract Security | Solidity | Foundry | DeFi**
 
 Learning smart contract security through hands-on work with protocols, vulnerabilities, and EVM systems.
 
-## Approach
+## Smart Contract Security
 
-Understand the protocol → Identify assumptions → Form a hypothesis → Test it → Learn
+- Solidity
+- Foundry
+- Contract Testing
+- Fuzz Testing
+- Threat Modeling
+- Attack-Path Reasoning
+- Invariant Analysis
+- Exploit Analysis
 
-## Currently Learning
+## DeFi & EVM
 
-- Smart contract security
-- DeFi protocol analysis
-- Foundry & fuzz testing
-- Vulnerability analysis
-- AI-assisted security research
+- AMMs & DEXs
+- Lending & Borrowing
+- Liquidity Pools
+- Oracles
+- Liquidations
+- Stablecoins
+- Governance
+- RWA Protocols
+
+## AI-Assisted Security Research
+
+I’m exploring how AI can support repository-level security research.
+
+### Current Areas
+
+- Harness Engineering
+- Agent Orchestration
+- Graph-Based Reasoning
+- Loop-Based Reasoning
+- Tree-Based Reasoning
+- Structured Retrieval
+- LLM-Assisted Hypothesis Analysis
